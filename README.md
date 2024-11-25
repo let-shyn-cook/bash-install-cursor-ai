@@ -6,9 +6,9 @@
   <img src="https://miro.medium.com/v2/resize:fit:800/0*zWCTHFNFdGAgSw2d" width="200" alt="Cursor AI IDE Logo"/>
 </p>
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/cursor-installer?style=for-the-badge)](https://github.com/yourusername/cursor-installer/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=for-the-badge)](https://github.com/yourusername/cursor-installer/issues)
+[![GitHub stars](https://img.shields.io/github/stars/let-shyn-cook/bash-install-cursor-ai?style=for-the-badge)](https://github.com/let-shyn-cook/bash-install-cursor-ai/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=for-the-badge)](https://github.com/let-shyn-cook/bash-install-cursor-ai/issues)
 
 </div>
 
@@ -58,7 +58,7 @@ Cursor AI IDE Installer là một script bash tự động hóa quá trình cài
 
 ## 🚀 Cài Đặt
 # Tải script
-curl -O https://raw.githubusercontent.com/yourusername/cursor-installer/main/install_cursor.sh
+curl -O https://raw.githubusercontent.com/let-shyn-cook/bash-install-cursor-ai/main/install_cursor.sh
 
 # Cấp quyền thực thi
 chmod +x install_cursor.sh
